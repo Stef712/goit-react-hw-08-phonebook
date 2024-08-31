@@ -1,0 +1,18 @@
+.app {
+  color: black;
+  padding: 16px;
+  max-width: 760px;
+  margin: 5px auto;
+}
+
+.title {
+  font-size: 38px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.subtitle {
+  font-size: 32px;
+  margin-bottom: 10px;
+  text-align: center;
+}

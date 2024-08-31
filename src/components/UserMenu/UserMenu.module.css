@@ -1,0 +1,22 @@
+.userMenu {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.email {
+  font-weight: bold;
+}
+
+.logoutButton {
+  padding: 10px 15px;
+  border: none;
+  background-color: darkred;
+  color: whitesmoke;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.logoutButton:hover {
+  background-color: red;
+}

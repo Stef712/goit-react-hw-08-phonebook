@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  background-color: #7ef186;
+}
+
+.navLink {
+  color: #144b3e;
+  text-decoration: none;
+  font-size: 24px;
+  margin: 5px 15px;
+}
+
+.navLink:hover {
+  color: white;
+}
+
+.navTitle {
+  color: darkblue;
+  font-size: 28px;
+  text-decoration: none;
+  font-weight: bold;
+}
